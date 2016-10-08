@@ -1,0 +1,6 @@
+framework module Pods_VogueStoreApp {
+  umbrella header "Pods-VogueStoreApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
